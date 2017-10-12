@@ -4,5 +4,8 @@ TV Polychroma for ChromeOS is a native Chromebook client for viewing TV Polychro
 Version 1.1:
 - Updated player
 
-Requirements
+Requirements:
 - ChromeOS
+
+Available via:
+- Chrome Web Store: https://chrome.google.com/webstore/detail/tv-polychroma/cokebikhiemplfebmpfakildgkdnighm
